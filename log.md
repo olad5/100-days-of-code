@@ -17,3 +17,11 @@
 
 **Thoughts** I feel I just need to learn a few more things before i start making complex scripts
 
+
+
+### Day 2: 20-07-2021
+
+**Today's Progress**: I learnt how to handle input and output in bash. Started learning about signals that opens up new possibilities with bash scripts. I'll try to finish the chapter on that, then the learn how functions work and i think i should have the basics of bash scripting down.
+
+**Thoughts** I feel I can be better at managing my time and learning concepts faster. 
+
