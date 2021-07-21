@@ -19,9 +19,17 @@
 
 
 
-### Day 2: 20-07-2021
+### Day 3: 20-07-2021
 
 **Today's Progress**: I learnt how to handle input and output in bash. Started learning about signals that opens up new possibilities with bash scripts. I'll try to finish the chapter on that, then the learn how functions work and i think i should have the basics of bash scripting down.
 
 **Thoughts** I feel I can be better at managing my time and learning concepts faster. 
+
+
+
+### Day 4: 21-07-2021
+
+**Today's Progress**: Didn't do a lot today. Wasn't feeling to well but learnt about signals in bash. Learnt about cron tasks and how to use the anacron program
+
+**Thoughts** Almost done with learning the basics of bash. I feel like I need 1 more day and I can start writing complex scripts.
 
