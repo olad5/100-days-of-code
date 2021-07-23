@@ -33,9 +33,15 @@
 
 **Thoughts** Almost done with learning the basics of bash. I feel like I need 1 more day and I can start writing complex scripts.
 
-### Day 4: 22-07-2021
+### Day 5: 22-07-2021
 
 **Today's Progress**: learnt about functions in bash. There are a lot of caveats to note when using them in scripts
 
 **Thoughts** I hope i'm able to write a script tommorrow.
+
+### Day 6: 23-07-2021
+
+**Today's Progress**: Made a little script in bash that opens up vlc media player from the terminal without showing errors. Super happy that i made that cause it has been bugging me for months
+
+**Thoughts** Yea I'm pretty exicted that I know the basics to build some things. Hopefully i build the pomodoro timer I want to build in python tomorrow.
 
