@@ -33,3 +33,9 @@
 
 **Thoughts** Almost done with learning the basics of bash. I feel like I need 1 more day and I can start writing complex scripts.
 
+### Day 4: 22-07-2021
+
+**Today's Progress**: learnt about functions in bash. There are a lot of caveats to note when using them in scripts
+
+**Thoughts** I hope i'm able to write a script tommorrow.
+
