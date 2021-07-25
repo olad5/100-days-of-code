@@ -45,3 +45,12 @@
 
 **Thoughts** Yea I'm pretty exicted that I know the basics to build some things. Hopefully i build the pomodoro timer I want to build in python tomorrow.
 
+
+
+
+### Day 7: 24-07-2021
+
+**Today's Progress**: Made a bash script that automates the initialization of a git repo depending on if it's a bash or python project. 
+
+**Thoughts** Automating scripts are cool. I can' wait to create more. I'll try to find things that I do repeatedly that might be better of automated.
+
