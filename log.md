@@ -54,3 +54,12 @@
 
 **Thoughts** Automating scripts are cool. I can' wait to create more. I'll try to find things that I do repeatedly that might be better of automated.
 
+
+
+
+### Day 8: 25-07-2021
+
+**Today's Progress**: Learn about mounting filesystems in linux and made a bash script that automatically mounts my windows partition 
+
+**Thoughts** Still have a lot to learnt but this journey has been exicting so far
+
